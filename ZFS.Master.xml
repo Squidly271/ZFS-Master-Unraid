@@ -8,6 +8,7 @@
   <Name>ZFS Master</Name>
   <Description>The ZFS Master plugin provides information and control over the ZFS Pools in your Unraid. Available ZFS Pools are listed under the "Main/ZFSMaster" tab.
   </Description>
+  <Requires>Unassigned Devices Plugin Installed</Requires>
   <MinVer>6.9.2</MinVer>
   <MaxVer>6.9.2</MaxVer>
   <Support></Support>
